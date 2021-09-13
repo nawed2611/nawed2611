@@ -2,7 +2,12 @@
 I'm Nawed from New Delhi, India and I'm highly proficient in C/C++, JavaScript, Python, HTML & CSS Languages. I like to learn new languages and frameworks.
 
 
-**Skills**: C/ C++ / Python / HTML / CSS/ JS
+**Skills**:
+- C / C++
+- Python
+- HTML 
+- CSS
+- JavaScript
 
 - 😀 I’m currently working on my Front-End Development skills.
 - 📚 I’m currently learning Data Structures & Algorithms.
