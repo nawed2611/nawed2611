@@ -4,8 +4,8 @@ I'm Nawed from New Delhi, India and I'm highly proficient in C/C++, Python, HTML
 
 **Skills**: C/ C++/ Python/ HTML / CSS/ JS
 
-- 🔭 I’m currently working on Front-End Development 
-- 🌱 I’m currently learning Data Structures & Algorithms 
+- 😀 I’m currently working on Front-End Development skills
+- 📚 I’m currently learning Data Structures & Algorithms 
 - 🤔 I’m looking for help with Open Source Projects 
 
 
