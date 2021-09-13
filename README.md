@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Nawed Ali
+### Hi there 👋, Nawed Ali
 I'm Nawed from New Delhi, India and I'm highly proficient in C/C++, Python, HTML & CSS Languages. I like to learn new languages and frameworks 
 
 
