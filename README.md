@@ -21,8 +21,6 @@ I'm Nawed, Sophomore Computer Science Engineering Student, from New Delhi, India
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nawed2611&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nawed2611&theme=tokyonight)
-
 Thank You!
 
 ![Profile views](https://gpvc.arturio.dev/nawed2611)  
