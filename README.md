@@ -19,6 +19,8 @@ I'm Nawed, Sophomore Computer Science Engineering Student, from New Delhi, India
 ## 🗨 Socials:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nawed2611)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nawedali/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/nawed.alli/)  
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nawed2611&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
 Thank You!
 
 ![Profile views](https://gpvc.arturio.dev/nawed2611)  
