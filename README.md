@@ -23,6 +23,6 @@ I'm Nawed, sophomore Computer Science Engineering student, from New Delhi, India
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nawed2611&show_icons=true&border_radius=10px&theme=dark)
 
 ***
-Thank You!
+`Thank You!`
 
 ![Profile views](https://gpvc.arturio.dev/nawed2611)  
