@@ -15,7 +15,7 @@ I'm Nawed, sophomore Computer Science Engineering student, from New Delhi, India
 <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML" height="40" style="vertical-align:top; margin:4px">
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS" height="40" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="PHP" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="PHP" height="40" style="vertical-align:top; margin:4px"> 
 </p>
 
 ## 🗨 Socials:
