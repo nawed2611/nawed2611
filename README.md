@@ -21,7 +21,7 @@ I'm Nawed, sophomore Computer Science Engineering student, from New Delhi, India
 ## 🔗 Links:
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/nawed2611)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nawed.alli/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/nawedali/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nawedali/)
 
 ***
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nawed2611&show_icons=true&border_radius=10px&theme=dark)
