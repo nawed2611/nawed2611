@@ -18,8 +18,10 @@ I'm Nawed, sophomore Computer Science Engineering student, from New Delhi, India
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="PHP" height="40" style="vertical-align:top; margin:4px"> 
 </p>
 
-## 🗨 Socials:
-[<img src='https://camo.githubusercontent.com/b079fe922f00c4b86f1b724fbc2e8141c468794ce8adbc9b7456e5e1ad09c622/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6769746875622e737667' alt='github' height='40'>](https://github.com/nawed2611)  [<img src='https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667' alt='linkedin' height='40'>](https://www.linkedin.com/in/nawedali/)  [<img src='https://camo.githubusercontent.com/c9dacf0f25a1489fdbc6c0d2b41cda58b77fa210a13a886d6f99e027adfbd358/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f696e7374616772616d2e737667' alt='instagram' height='40'>](https://www.instagram.com/nawed.alli/)  
+## 🔗 Links:
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/nawed2611)
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nawed.alli/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/nawedali/)
 
 ***
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nawed2611&show_icons=true&border_radius=10px&theme=dark)
