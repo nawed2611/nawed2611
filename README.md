@@ -1,4 +1,4 @@
-##  Hi there 👋, Nawed Ali
+##  Hi 👋, Nawed Ali
 I'm Nawed, sophomore Computer Science Engineering student, from New Delhi, India. I'm highly proficient in C/C++, JavaScript, Python, HTML5, CSS3, PHP Languages. I like to learn new languages and frameworks.
 
 - 😀 I’m currently working on my Front-End Development skills.
@@ -20,14 +20,14 @@ I'm Nawed, sophomore Computer Science Engineering student, from New Delhi, India
 </p>
 
 ##  Socials:
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&target=_blank)](https://www.github.com/nawed2611)
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nawed.alli/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nawedali/)
+ [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=black&target=_blank)](https://www.github.com/nawed2611)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=black&target=_blank)](https://www.instagram.com/nawed.alli/)
+[![Linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=black&target=_blank)](https://www.linkedin.com/in/nawedali/)
 
-***
-[![Nawed's GitHub stats](https://github-readme-stats.vercel.app/api?username=nawed2611&show_icons=true&bg_color=#74EBD5,#9FACE6)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Nawed's GitHub stats](https://github-readme-stats.vercel.app/api?username=nawed2611&theme=github_dark&show_icons=true&border_radius=2px)](https://github.com/anuraghazra/github-readme-stats)
 ***
-Thank You!
+
+`Thank You!` 
 
 ![Profile views](https://gpvc.arturio.dev/nawed2611)  
