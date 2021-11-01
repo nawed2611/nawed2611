@@ -25,7 +25,7 @@ I'm Nawed, sophomore Computer Science Engineering student, from New Delhi, India
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nawedali/)
 
 ***
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nawed2611&show_icons=true&border_radius=10px&theme=dark)
+[![Nawed's GitHub stats](https://github-readme-stats.vercel.app/api?username=nawed2611)](https://github.com/anuraghazra/github-readme-stats)
 
 ***
 Thank You!
