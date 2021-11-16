@@ -1,9 +1,9 @@
 ##  Hi 👋, Nawed Ali
-I'm Nawed, sophomore Computer Science Engineering student, from New Delhi, India. I'm highly proficient in C/C++, JavaScript, Python, HTML5, CSS3, PHP Languages. I like to learn new languages and frameworks.
+I'm Nawed, a Full-Stack Developer and a sophomore Computer Science Engineering student, from New Delhi, India. I'm highly proficient in C/C++, JavaScript, Python, HTML5, CSS3, PHP Languages. I like to learn new languages and frameworks.
 
-- 😀 I’m currently working on my Front-End Development skills.
+- 😀 I’m currently working on my Full-Stack Development skills.
 - 📚 I’m currently learning Data Structures & Algorithms.
-- 🤔 I’m looking for help with Open Source Projects.
+- 🤔 I’m looking for help with Machine Learning.
 
 ##  Languages and Tools:
 <p>
