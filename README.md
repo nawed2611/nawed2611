@@ -25,7 +25,7 @@ I'm Nawed, a Full-Stack Developer and a sophomore Computer Science Engineering s
 [![Linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=black&target=_blank)](https://www.linkedin.com/in/nawedali/)
 
 
-[![Nawed's GitHub stats](https://github-readme-stats.vercel.app/api?username=nawed211&theme=github_dark&show_icons=true&border_radius=2px)](https://github.com/anuraghazra/github-readme-stats)
+[![Nawed's GitHub stats](https://github-readme-stats.vercel.app/api?username=nawed2611&theme=github_dark&show_icons=true&border_radius=2px)](https://github.com/anuraghazra/github-readme-stats)
 ***
 
 `Thank You!` 
