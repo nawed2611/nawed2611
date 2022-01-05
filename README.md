@@ -31,4 +31,4 @@
 
 `Thank You!` 
 
-![Profile views](https://gpvc.arturio.dev/nawed2611)  
+![Profile views](https://gpvc.arturio.dev/nawed211)  
