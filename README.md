@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nawed Ali</h1>
 <h3>I'm a MERN-Stack Developer and a sophomore Computer Science Engineering student, from New Delhi, India. I'm highly proficient in C/C++, Python, HTML5, CSS3, JavaScript, Node.js, React.js, Express.js, Pug, PHP Languages. I like to learn new technology and stay up-to date with the technology advancements and trends .</h3>
 
-[View My Portfolio](https://nawed2611.github.io)
-
 - 😀 I’m currently contributing in Open-Source through SWOC
 - 📚 I’m currently learning Data Structures & Algorithms
 - 🤔 I’m looking for help with Machine Learning
+
+[View My Portfolio](https://nawed2611.github.io)
 
 ##  Languages and Tools:
 <p>
@@ -31,4 +31,4 @@
 [![Nawed's GitHub stats](https://github-readme-stats.vercel.app/api?username=nawed2611&theme=github_dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 ***
 
-`Thank You!` 
+`Thank You!`
