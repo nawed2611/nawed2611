@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nawed Ali</h1>
-<h3>I'm a MERN-Stack Developer and a sophomore Computer Science Engineering student, from New Delhi, India. I'm highly proficient in C/C++, Python, HTML5, CSS3, JavaScript, Node.js, React.js, Express.js, Pug, PHP Languages. I like to learn new technology and stay up-to date with the technology advancements and trends .</h3>
+<h3>I'm a MERN-Stack Developer and a sophomore Computer Science Engineering studec decnt, from New Delhi, India. I'm highly proficient in C/C++, Python, HTML5, CSS3, JavaScript, Node.js, React.js, Express.js, Pug, PHP Languages. I like to learn new technology and stay up-to date with the technology advancements and trends .</h3>
 
 - 😀 I’m currently contributing in Open-Source through SWOC
 - 📚 I’m currently learning Data Structures & Algorithms
