@@ -9,7 +9,7 @@
 
 <br/>
 
-##  Languages and Tools:
+##  Languages and Tools
 <p>
  <img align="center" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" alt="C" height="60" style="vertical-align:top; margin:4px">
 <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" alt="CPP" height="60" style="vertical-align:top; margin:12px">
@@ -26,14 +26,12 @@
 
 <br/>
 
-##  Socials:
+##  Socials
  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=black&target=_blank)](https://www.github.com/nawed2611)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=black&target=_blank)](https://www.instagram.com/nawed.alli/)
 [![Linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=black&target=_blank)](https://www.linkedin.com/in/nawedali/)
 
 <br/>
-<br/>
-
 [![Nawed's GitHub stats](https://github-readme-stats.vercel.app/api?username=nawed2611&theme=github_dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 ***
 
