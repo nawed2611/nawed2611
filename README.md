@@ -5,7 +5,7 @@
 - 📚 I’m currently learning Data Structures & Algorithms and getting my hands on Julia language
 - 🤔 I’m looking for help with Machine Learning
 
-[View My Portfolio](https://nawed2611.github.io)
+[View my Portfolio](https://nawed2611.github.io)
 
 <br/>
 
