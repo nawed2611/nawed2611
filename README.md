@@ -34,7 +34,7 @@
 <br/>
 
 [![Nawed's GitHub stats](https://github-readme-stats.vercel.app/api?username=nawed2611&theme=github_dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nawed2611&show_icons=true&theme=github_dark&locale=en&layout=compact" alt="nawed2611" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=nawed2611&show_icons=true&theme=github_dark&locale=en&layout=compact" alt="nawed2611" />
 
 <br/>
 
