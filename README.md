@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Nawed Ali</h1>
-<h3>I'm a MERN-Stack Developer and a Computer Science & Engineering student, from New Delhi, India. I'm highly proficient in C, C++, Python, HTML5, CSS3, JavaScript, and its technologies. I'm currently building with React.JS and learning WEBGL animations through three.JS. I like to learn new technology and stay up-to date with the technology advancements and trends.</h3>
+<h2>I'm a MERN-Stack Developer and a Computer Science & Engineering student, from New Delhi, India. I'm highly proficient in C, C++, Python, HTML5, CSS3, JavaScript, and its technologies. I'm currently building with React.JS and learning WEBGL animations through three.JS. I like to learn new technology and stay up-to date with the technology advancements and trends.</h2>
 
-- 😀 I’m currently contributing in Open-Source through SWOC and Uniswap
-- 📚 I’m currently learning Data Structures & Algorithms and getting my hands on Julia language
-- 🤔 I’m looking for help with Machine Learning
-
-[View my Portfolio](https://nawed2611.github.io)
+- 🤖 I’m currently contributing in Open-Source through SWOC and UniSwap 
+- 📖 I’m currently learning Data Structures & Algorithms
+- 😅 I’m looking for help with Machine Learning
+- 💭 Feel free to ask me to about React.JS
 
 <br/>
 
@@ -26,8 +25,8 @@
 
 <br/>
 
-##  Socials
- [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=black&target=_blank)](https://www.github.com/nawed2611)
+## Socials
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=black&target=_blank)](https://www.github.com/nawed2611)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=black&target=_blank)](https://www.instagram.com/nawed.alli/)
 [![Linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=black&target=_blank)](https://www.linkedin.com/in/nawedali/)
 
