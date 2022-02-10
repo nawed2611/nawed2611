@@ -4,7 +4,7 @@
 - 🤖 I’m currently contributing in Open-Source through SWOC and UniSwap 
 - 📖 I’m currently learning Data Structures & Algorithms
 - 😅 I’m looking for help with Machine Learning
-- 💭 Feel free to ask me to about React.JS
+- 💭 Feel free to ask me about React.JS
 - ➡️ Do leave a review on [My Portfolio Website](https://nawed2611.github.io/)
 
 <br/>
