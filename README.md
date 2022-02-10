@@ -5,6 +5,7 @@
 - 📖 I’m currently learning Data Structures & Algorithms
 - 😅 I’m looking for help with Machine Learning
 - 💭 Feel free to ask me to about React.JS
+- ➡️ Do leave a review on [My Portfolio Website](https://nawed2611.github.io/)
 
 <br/>
 
