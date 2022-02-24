@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nawed Ali</h1>
 <h3>I'm a MERN-Stack Developer and a Computer Science & Engineering student, from New Delhi, India. I'm highly proficient in C, C++, Python, HTML5, CSS3, JavaScript and its technologies. I'm currently building with React.JS, Node.js, Express.js and learning WEBGL animations through three.JS. I like to learn new technology and stay up-to date with the technology advancements and trends.</h3>
 
-- 🤖 I’m currently contributing in Open-Source through SWOC and UniSwap 
+- 🤖 I’m a mentor at [GSSoC'22](https://gssoc.girlscript.tech/) and contributing at [Listnr](https://www.listnr.tech/)
 - 📖 I’m currently learning Data Structures & Algorithms
 - 😅 I’m looking for help with Machine Learning
 - 💭 Feel free to ask me about React.JS
