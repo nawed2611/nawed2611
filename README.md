@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nawed Ali</h1>
-<h3>I'm a MERN-Stack Developer and a Computer Science & Engineering student, from New Delhi, India. I'm highly proficient in C, C++, Python, HTML5, CSS3, JavaScript and its technologies. I'm currently building with React.JS, Node.js, Express.js and learning WEBGL animations through three.JS. I like to learn new technology and stay up-to date with the technology advancements and trends.</h3>
+<h3>I'm a MERN-Stack Developer and a Computer Science & Engineering student, from New Delhi, India. I'm highly proficient in C, C++, Python, HTML5, CSS3, JavaScript and its technologies. I'm currently building web apps with React.JS, Node.js, Express.js and working with backend while actively participating in hackathons. I like to learn new technology and stay up-to date with the technology advancements and trends.</h3>
 
 - 🤖 I’m a mentor at [GSSoC'22](https://gssoc.girlscript.tech/) and an open-source enthusiast
 - 📖 I’m currently learning Data Structures & Algorithms
 - 😅 I’m looking for help with Machine Learning
 - 💭 Feel free to ask me about React.JS
+- 🧑‍💻 Check out my [Devpost](https://devpost.com/nawed2611?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
 - ➡️ Do leave a review on [My Portfolio Website](https://nawed2611.github.io/)
 
 <br/>
@@ -22,8 +23,9 @@
  <img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs" height="60" style="vertical-align:top; margin:4px"> 
  <img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="Reactjs" height="60" style="vertical-align:top; margin:4px"> 
  <img align="center" src="https://www.svgrepo.com/show/330398/express.svg" alt="Reactjs" height="60" style="vertical-align:top; margin:4px"> 
- <img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="60" style="vertical-align:top; margin:4px">
- <img align="center" src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="AxiosJS" height="60" width="50" style="vertical-align:top; margin:4px">
+  <img align="center" src="https://www.svgrepo.com/show/349539/twilio.svg" alt="Twilio" height="60" width="50" style="vertical-align:top; margin:4px">
+ <img align="center" src="https://www.svgrepo.com/show/303670/firebase-1-logo.svg" alt="Firebase" height="60" width="50" style="vertical-align:top; margin:4px">
+ <img align="center" src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="Postman" height="60" width="50" style="vertical-align:top; margin:4px">
 </p>
 
 <br/>
