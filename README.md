@@ -16,7 +16,7 @@ I'm a Full-Stack Developer and a Computer Science & Engineering student, from Ne
  <img align="center" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" alt="C" height="60" style="vertical-align:top; margin:4px">
 <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" alt="CPP" height="60" style="vertical-align:top; margin:12px">
 <img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="60" style="vertical-align:top; margin:4px">
- <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png" alt="Python" height="60" style="vertical-align:top; margin:4px">
+ <img align="center" cdsrc="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png" alt="Python" height="60" style="vertical-align:top; margin:4px">
 <img align="center" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" height="60" style="vertical-align:top; margin:4px">
 <img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML" height="60" style="vertical-align:top; margin:4px">
  <img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS" height="60" style="vertical-align:top; margin:4px">
