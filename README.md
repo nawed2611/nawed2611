@@ -13,20 +13,20 @@ I'm a Full-Stack Developer and a Computer Science & Engineering student, from Ne
 
 ##  Languages and Tools
 <p>
- <img align="center" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" alt="C" height="60" style="vertical-align:top; margin:4px">
-<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" alt="CPP" height="60" style="vertical-align:top; margin:12px">
-<img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="60" style="vertical-align:top; margin:4px">
- <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png" alt="Python" height="60" style="vertical-align:top; margin:4px">
-<img align="center" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" height="60" style="vertical-align:top; margin:4px">
-<img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML" height="60" style="vertical-align:top; margin:4px">
- <img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS" height="60" style="vertical-align:top; margin:4px">
- <img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="PHP" height="60" style="vertical-align:top; margin:4px"> 
- <img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs" height="60" style="vertical-align:top; margin:4px"> 
- <img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="Reactjs" height="60" style="vertical-align:top; margin:4px"> 
- <img align="center" src="https://www.svgrepo.com/show/330398/express.svg" alt="Expressjs" height="60" style="vertical-align:top; margin:4px"> 
-  <img align="center" src="https://www.svgrepo.com/show/349539/twilio.svg" alt="Twilio" height="60" width="50" style="vertical-align:top; margin:4px">
- <img align="center" src="https://www.svgrepo.com/show/303670/firebase-1-logo.svg" alt="Firebase" height="60" width="50" style="vertical-align:top; margin:4px">
- <img align="center" src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="Postman" height="60" width="50" style="vertical-align:top; margin:4px">
+ <img align="center" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" alt="C" height="30" style="vertical-align:top; margin:4px">
+<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" alt="CPP" height="30" style="vertical-align:top; margin:12px">
+<img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="30" style="vertical-align:top; margin:4px">
+ <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png" alt="Python" height="30" style="vertical-align:top; margin:4px">
+<img align="center" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" height="30" style="vertical-align:top; margin:4px">
+<img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML" height="30" style="vertical-align:top; margin:4px">
+ <img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS" height="30" style="vertical-align:top; margin:4px">
+ <img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="PHP" height="30" style="vertical-align:top; margin:4px"> 
+ <img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs" height="30" style="vertical-align:top; margin:4px"> 
+ <img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="Reactjs" height="30" style="vertical-align:top; margin:4px"> 
+ <img align="center" src="https://www.svgrepo.com/show/330398/express.svg" alt="Expressjs" height="30" style="vertical-align:top; margin:4px"> 
+  <img align="center" src="https://www.svgrepo.com/show/349539/twilio.svg" alt="Twilio" height="30" width="50" style="vertical-align:top; margin:4px">
+ <img align="center" src="https://www.svgrepo.com/show/303670/firebase-1-logo.svg" alt="Firebase" height="30" width="50" style="vertical-align:top; margin:4px">
+ <img align="center" src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="Postman" height="30" style="vertical-align:top; margin:4px">
 </p>
 
 <br/>
