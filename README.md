@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Nawed Ali</h1>
 
-I'm a Full-Stack Developer and a Computer Science & Engineering student, from New Delhi, India. I'm highly proficient in C, C++, Python, HTML5, CSS3, JavaScript and its technologies. I'm currently building apps with React.js, Node.js, Express.js and working with backend while actively participating in hackathons. I like to learn new technology and stay up-to date with the technology advancements and trends.
+I'm a Full-Stack Developer and a Computer Science & Engineering student, from New Delhi, India. I'm highly proficient in C, C++, Python, HTML5, CSS3, JavaScript, TypeScript and its technologies. I'm like to build Full-Stack apps and working with backend while actively participating in hackathons. I like to learn new technology and stay up-to date with the technology advancements and trends.
 
 - 🤖 I’m a mentor at [GSSoC'22](https://gssoc.girlscript.tech/) and an open-source enthusiast
-- 📖 I’m currently learning Data Structures & Algorithms
+- 🔨 I'm currently building [TweepsBookCom](https://tweepsbook.com/)
+- 📖 I’m currently learning Data Structures & Algorithms and exploring the Web3.0
 - 😅 I’m looking for help with Machine Learning
-- 💭 Feel free to ask me about React.JS
+- 💭 Feel free to ask me about Web Development and Open-Source
 - 🧑‍💻 Check out my [Devpost](https://devpost.com/nawed2611?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
 - ➡️ Do leave a review on [My Portfolio Website](https://nawed2611.github.io/)
 
@@ -16,11 +17,12 @@ I'm a Full-Stack Developer and a Computer Science & Engineering student, from Ne
 
 <br/>
 
-## Socials
+## Connect with me
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=black&target=_blank)](https://www.github.com/nawed2611)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=black&target=_blank)](https://www.instagram.com/nawed.alli/)
 [![Linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=black&target=_blank)](https://www.linkedin.com/in/nawedali/)
+<a href="https://twitter.com/nawed2611" target="blank"><img src="https://img.shields.io/twitter/follow/nawed2611?logo=twitter&style=for-the-badge" alt="nawed2611" /></a>
 
 <br/>
 
