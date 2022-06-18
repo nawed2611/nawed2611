@@ -29,3 +29,8 @@ I'm a Full-Stack Developer and a Computer Science & Engineering student, from Ne
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nawed2611&theme=github_dark" alt="nawed2611" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nawed2611&theme=github_dark&show_icons=true&count-private=true" alt="nawed2611" /></p>
+
+# Blog posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
