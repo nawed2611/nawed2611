@@ -3,7 +3,7 @@
 I'm a Full-Stack Developer and a Computer Science & Engineering student, from New Delhi, India. I'm highly proficient in C, C++, Python, HTML5, CSS3, JavaScript, TypeScript and its technologies. I like to build Full-Stack apps and working with backend while actively participating in hackathons. I like to learn new technology and stay up-to date with the technology advancements and trends.
 
 - 🤖 I’m a mentor at [GSSoC'22](https://gssoc.girlscript.tech/) and an open-source enthusiast
-- 🔨 I'm currently building [TweepsBookCom](https://tweepsbook.com/)
+- 🔨 I'm currently building [TweepsBook](https://tweepsbook.com/)
 - 📖 I’m currently learning Data Structures & Algorithms and exploring the Web3.0
 - 😅 I’m looking for help with Machine Learning
 - 💭 Feel free to ask me about Web Development and Open-Source
@@ -22,16 +22,19 @@ I'm a Full-Stack Developer and a Computer Science & Engineering student, from Ne
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=black&target=_blank)](https://www.github.com/nawed2611)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=black&target=_blank)](https://www.instagram.com/nawed.alli/)
 [![Linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=black&target=_blank)](https://www.linkedin.com/in/nawedali/)
-<a href="https://twitter.com/nawed2611" target="blank"><img src="https://img.shields.io/twitter/follow/nawed2611?logo=twitter&style=for-the-badge" alt="nawed2611" /></a>
+[![Twitter](https://img.shields.io/twitter/follow/nawed2611?logo=twitter&style=for-the-badge&target=_blank)](https://twitter.com/nawed2611)
+[![Hashnode](https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress&width=30)](https://twitter.com/nawed2611)
+
+<br/>
+
+# Latest Blog posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Get Started with Git and GitHub: A Beginner&#39;s Guide to Open-Source](https://nawedali.hashnode.dev/get-started-with-git-and-github-a-beginners-guide-to-open-source)
+<!-- BLOG-POST-LIST:END -->
 
 <br/>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nawed2611&theme=github_dark" alt="nawed2611" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nawed2611&theme=github_dark&show_icons=true&count-private=true" alt="nawed2611" /></p>
-
-# Blog posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Get Started with Git and GitHub: A Beginner&#39;s Guide to Open-Source](https://nawedali.hashnode.dev/get-started-with-git-and-github-a-beginners-guide-to-open-source)
-<!-- BLOG-POST-LIST:END -->
