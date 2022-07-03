@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Nawed Ali</h1>
 
-I'm a Full-Stack Developer and a Computer Science & Engineering student, from New Delhi, India. I'm highly proficient in C, C++, Python, HTML5, CSS3, JavaScript, TypeScript and its technologies. I like to build Full-Stack apps (mainly JavaScript based like React.js, Next.js and Node.js) and working with backend while actively participating in hackathons. I like to learn new technology and stay up-to date with the technology advancements and trends.
+I'm a Full-Stack Web3.0 Developer and a Computer Science & Engineering student, from New Delhi, India. I'm highly proficient in C, C++, Python, HTML5, CSS3, JavaScript, TypeScript and its technologies. I like to build Full-Stack apps (mainly JavaScript based like React.js, Next.js and Node.js) and working with backend while actively participating in hackathons. I like to learn new technology and stay up-to date with the technology advancements and trends.
 
 - 🤖 I’m a mentor at [GSSoC'22](https://gssoc.girlscript.tech/) and an open-source enthusiast
 - 🔨 I'm currently building [TweepsBook](https://tweepsbook.com/)
-- 📖 I’m currently learning Data Structures & Algorithms and exploring the Web3.0
+- 📖 I’m currently learning Data Structures & Algorithms and exploring the Web3.0 space
 - 😅 I’m looking for help with Machine Learning
 - 💭 Feel free to ask me about Web Development and Open-Source
 - 🧑‍💻 Check out my [Devpost](https://devpost.com/nawed2611?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
