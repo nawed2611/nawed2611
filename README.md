@@ -8,7 +8,7 @@ I'm a Full-Stack Web3.0 Developer and a Computer Science & Engineering student, 
 - 😅 I’m looking for help with Machine Learning
 - 💭 Feel free to ask me about Web Development and Open-Source
 - 🧑‍💻 Check out my [Devpost](https://devpost.com/nawed2611?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
-- ➡️ Do leave a review on [My Portfolio Website](https://nawed2611.github.io/)
+- ➡️ Do leave a review on [My Portfolio Website](https://nawedali.tech/)
 
 <br/>
 
