@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nawed Ali</h1>
 
-I'm a Full-Stack Web3.0 Developer and a Computer Science & Engineering student, from New Delhi, India. I'm highly proficient in C, C++, Python, Solidity, HTML, CSS, JavaScript, TypeScript and its technologies. I like to build Full-Stack apps (TypeScript based like React.js/Next.js with TailwindCSS and Node.js, Prisma with PostgresQL/MongoDB database support) while actively participating in hackathons. I like to learn new technology and stay up-to date with the technology advancements and trends.
+I'm a Full-Stack Web3.0 Developer and a Computer Science & Engineering student, from New Delhi, India. I'm highly proficient in C, C++, Python, Solidity, HTML, CSS, JavaScript, TypeScript and its technologies. I like to build Full-Stack apps (TypeScript based like React.js/Next.js with TailwindCSS and Node.js, Prisma with PostgreSQL/MongoDB database support) while actively participating in hackathons. I like to learn new technology and stay up-to date with the technology advancements and trends.
 
 - 🤖 I’m a an open-source advocate mentoring and hacking with communities
 - 🔨 I'm currently building [TweepsBook](https://tweepsbook.com/) (<i>featured on [ProductHunt](https://twitter.com/ProductHunt/status/1548427555677474816?s=20&t=AzliEdtur5Ts8O5UDRnFbg)!</i>)
