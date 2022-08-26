@@ -27,7 +27,7 @@ I'm a Full-Stack Web3.0 Developer and a Computer Science & Engineering student, 
 
 <br/>
 
-# Latest Blog posts
+# Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Get Started with Git and GitHub: A Beginner&#39;s Guide to Open-Source](https://nawedali.hashnode.dev/get-started-with-git-and-github-a-beginners-guide-to-open-source)
