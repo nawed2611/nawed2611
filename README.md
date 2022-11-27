@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nawed Ali</h1>
 
-I'm a Full-Stack Web3.0 Developer and a Computer Science & Engineering student, from New Delhi, India. I'm highly proficient in C, C++, Python, Rust, Solidity, HTML, CSS, PHP, JavaScript, **TypeScript** and its technologies. I like to build Full-Stack apps (TypeScript based like React.js/Next.js with TailwindCSS and Node.js, Prisma with PostgreSQL/MongoDB database support) while actively participating in hackathons. I've participated in over 20 hackathons as a mentor, hacker and an organiser with winning prizes in over 5 of them.
+I'm a Full-Stack Web3.0 Developer and a Computer Science & Engineering student, from New Delhi, India. I'm highly proficient in C, C++, Python, Rust, Solidity, JavaScript, **TypeScript** and its technologies. I like to build Full-Stack apps (TypeScript based like React.js/Next.js with TailwindCSS and Node.js, Prisma with PostgreSQL/MongoDB database support) while actively participating in hackathons. I've participated in over 20 hackathons as a mentor, hacker and an organiser with winning prizes in over 6 of them.
 
 - 🤖 I’m an open-source advocate mentoring and hacking with communities
 - 🔨 I'm currently working at [Logizip](https://logizip.io/) & building [TweepsBook](https://tweepsbook.com/) (<i>featured on [ProductHunt](https://twitter.com/ProductHunt/status/1548427555677474816?s=20&t=AzliEdtur5Ts8O5UDRnFbg)!</i>)
 - 📖 I’m currently learning Data Structures & Algorithms and exploring the Web3.0 space
-- 😅 I’m looking for help with Machine Learning
+- 😅 Building on Solana and Eth chain
 - 💭 Feel free to ask me about Web Development and Open-Source
 - 🧑‍💻 Check out my [Devpost](https://devpost.com/nawed2611?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
 - ➡️ Do leave a review on [My Portfolio Website](https://nawedali.tech/)
