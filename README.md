@@ -6,7 +6,7 @@ I'm a Full-Stack Web3.0 Developer and a Computer Science & Engineering student, 
 - 🔨 I'm currently working at [Logizip](https://logizip.io/) & building [PaperBrain](https://paperbrain.study) (Crossed 1k signups 🎉)
 - 📖 I’m currently learning Data Structures & Algorithms and exploring the Web3.0 space
 - 😅 Building on Solana and Eth chain
-- 💭 Feel free to ask me about Web Development and Open-Source
+- 💭 Won "Honourable Mention Winner" at Twitter's Chirp Developer Challenge 
 - 🧑‍💻 Check out my [Devpost](https://devpost.com/nawed2611?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
 - ➡️ Do leave a review on [My Portfolio Website](https://nawedali.tech/)
 
