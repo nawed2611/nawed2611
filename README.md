@@ -26,9 +26,3 @@ I'm a Full-Stack Web3.0 Developer and a Computer Science & Engineering student, 
 <!-- BLOG-POST-LIST:START -->
 - [Get Started with Git and GitHub: A Beginner&#39;s Guide to Open-Source](https://nawedali.hashnode.dev/get-started-with-git-and-github-a-beginners-guide-to-open-source)
 <!-- BLOG-POST-LIST:END -->
-
-<br/>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nawed2611&theme=github_dark" alt="nawed2611" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nawed2611&theme=github_dark&show_icons=true&count-private=true" alt="nawed2611" /></p>
