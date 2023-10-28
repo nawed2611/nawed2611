@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nawed Ali</h1>
 
 - 🤖 I’m an open-source advocate mentoring and hacking with communities
-- 🔨 I'm currently working at [Logizip](https://logizip.io/) & building [PaperBrain](https://paperbrain.study) (Crossed 15k signups 🎉)
+- 🔨 I'm currently working at [Logizip](https://logizip.io/) & building [PaperBrain](https://paperbrain.study) (Crossed 40k signups 🎉)
 - 📖 I’m currently learning Data Structures & Algorithms and exploring the Web3.0 space
 - 💭 Winner at Twitter's Chirp Developer Hackathon Challenge 
 - 🧑‍💻 Check out my [Devpost](https://devpost.com/nawed2611?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
