@@ -5,7 +5,7 @@
 - 📖 Organised, mentored and participated in over 50 hackathons
 - 💭 Winner at Twitter's Chirp Developer Hackathon Challenge 
 - 🧑‍💻 Check out my [Devpost](https://devpost.com/nawed2611?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
-- ➡️ Do leave a review on [My Portfolio Website](https://nawedali.tech/)
+- ➡️ Do leave a review on [My Portfolio Website](https://nawedali.com/)
 
 <br/>
 
