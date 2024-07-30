@@ -11,9 +11,6 @@
 
 ## Connect with me
 
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=black&target=_blank)](https://www.github.com/nawed2611)
-
 [![Linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=black&target=_blank)](https://www.linkedin.com/in/nawedali/)
 
 [![Twitter](https://img.shields.io/twitter/follow/nawed2611?logo=twitter&style=for-the-badge&target=_blank)](https://twitter.com/nawed2611)
